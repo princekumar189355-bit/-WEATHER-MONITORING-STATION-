@@ -1,0 +1,108 @@
+# 🌦 Weather Monitoring Station – Project Journal
+
+> **Project Duration:** 18 Hours  
+> **Platform:** Arduino Uno  
+> **Project Type:** Hardware Project
+
+---
+
+# 📖 Introduction
+
+I built this Weather Monitoring Station to learn how Arduino works with sensors. The project measures the surrounding temperature and humidity using a DHT11 sensor and displays the readings on a 16×2 I2C LCD display.
+
+I divided the project into three parts. In the first part, I completed the hardware setup. In the second part, I programmed the Arduino and tested the sensor. In the final part, I completed testing, organized the circuit, and prepared the documentation.
+
+---
+
+# 🎯 Objectives
+
+- Learn how the DHT11 sensor works.
+- Read temperature and humidity using Arduino.
+- Display sensor values on an LCD.
+- Improve hardware assembly skills.
+- Gain experience in Arduino programming.
+
+---
+
+# 🛠 Activities Performed
+
+### Part 1 – Hardware Setup (6 Hours)
+
+- Collected all required components.
+- Learned about the DHT11 sensor and LCD module.
+- Connected the Arduino, sensor, and LCD.
+- Checked every wire carefully.
+- Verified the hardware setup before programming.
+
+---
+
+### Part 2 – Programming & Testing (6 Hours)
+
+- Installed the required Arduino libraries.
+- Wrote the Arduino program.
+- Uploaded the code successfully.
+- Displayed temperature and humidity on the LCD.
+- Tested the project several times and fixed small wiring issues.
+
+---
+
+### Part 3 – Final Testing & Documentation (6 Hours)
+
+- Organized the jumper wires neatly.
+- Tested the project for a longer time.
+- Observed stable sensor readings.
+- Captured project photographs.
+- Prepared the README, circuit diagram, wiring diagram, flowchart, BOM, and other project files.
+
+---
+
+# ⚠ Challenges Faced
+
+- Understanding the correct sensor connections.
+- Loose jumper wire during testing.
+- Selecting the correct COM port before uploading the code.
+- Adjusting the LCD display properly.
+- Arranging the wiring neatly.
+
+---
+
+# 📚 What I Learned
+
+- Arduino programming
+- DHT11 sensor interfacing
+- I2C LCD communication
+- Circuit assembly
+- Hardware troubleshooting
+- Project documentation
+
+---
+
+# ✅ Final Outcome
+
+The Weather Monitoring Station worked successfully. It measured the room temperature and humidity and displayed the values correctly on the LCD. After testing and checking all the connections, the project was completed successfully.
+
+---
+
+# 🌍 Applications
+
+- Home weather monitoring
+- Classroom learning
+- Arduino practice
+- Indoor environment monitoring
+- Beginner electronics projects
+
+---
+
+# 🚀 Future Improvements
+
+- Add Wi-Fi monitoring using ESP8266 or ESP32.
+- Store sensor readings on an SD card.
+- Upload data to the cloud.
+- Add more environmental sensors.
+- Create a mobile dashboard.
+
+---
+
+# 📝 Conclusion
+
+This project helped me understand how sensors work with Arduino. I learned how to connect hardware, write Arduino code, solve simple problems, and test the complete system. Building this project improved my confidence in electronics and Arduino programming. It is a simple project, but it gave me practical experience that will help me in future hardware projects.
