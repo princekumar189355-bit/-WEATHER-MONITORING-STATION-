@@ -1,0 +1,28 @@
+
+# 🧰 Components List
+
+The following components were used to build the **Weather Monitoring Station**.
+
+| S.No. | Component | Quantity |
+|-------:|-----------|:--------:|
+| 1 | Arduino Uno | 1 |
+| 2 | DHT11 Temperature & Humidity Sensor | 1 |
+| 3 | 16×2 I2C LCD Display | 1 |
+| 4 | Breadboard | 1 |
+| 5 | Jumper Wires (Male-to-Male) | 1 Set |
+| 6 | USB Cable | 1 |
+| 7 | Laptop/PC (for uploading code) | 1 |
+
+---
+
+## 📦 Total Components
+
+- Arduino Uno
+- DHT11 Temperature & Humidity Sensor
+- 16×2 I2C LCD Display
+- Breadboard
+- Jumper Wires
+- USB Cable
+- Laptop/PC
+
+**Total Different Components:** **7**
