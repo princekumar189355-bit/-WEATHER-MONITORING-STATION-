@@ -1,0 +1,43 @@
+              WEATHER MONITORING STATION
+                 Wiring Diagram
+
+        +-----------------------------------+
+        |          Arduino UNO              |
+        |                                   |
+        | 5V  ------------------+-----------+
+        | GND ----------------+ | +---------+
+        | D2 -----------------| | |         |
+        | A4 (SDA) ----------+| | |         |
+        | A5 (SCL) --------+ || | |         |
+        +------------------|-||-|-|---------+
+                           | || | |
+                           | || | |
+                 +---------v-++ | |
+                 |    DHT11    | |
+                 |             | |
+                 | VCC <-------+ |
+                 | GND <---------+
+                 | DATA <------ D2
+                 +---------------+
+
+                           +----------------------+
+                           |     16×2 I2C LCD     |
+                           |                      |
+                           | VCC <--------- 5V    |
+                           | GND <--------- GND   |
+                           | SDA <--------- A4    |
+                           | SCL <--------- A5    |
+                           +----------------------+
+
+Power:
+• Arduino powered through USB cable.
+
+Connections:
+• DHT11 VCC  → Arduino 5V
+• DHT11 GND  → Arduino GND
+• DHT11 DATA → Arduino D2
+
+• LCD VCC → Arduino 5V
+• LCD GND → Arduino GND
+• LCD SDA → Arduino A4
+• LCD SCL → Arduino A5
