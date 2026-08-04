@@ -1,0 +1,22 @@
+
+# 📋 Bill of Materials (BOM)
+
+| S.No. | Component | Quantity | Approx. Cost (INR) |
+|-------:|-----------|:--------:|-------------------:|
+| 1 | Arduino Uno | 1 | ₹550 |
+| 2 | DHT11 Temperature & Humidity Sensor | 1 | ₹120 |
+| 3 | 16×2 I2C LCD Display | 1 | ₹180 |
+| 4 | Breadboard | 1 | ₹100 |
+| 5 | Jumper Wires (Male-to-Male) | 1 Set | ₹80 |
+| 6 | USB Cable | 1 | ₹80 |
+
+---
+
+## 💰 Total Estimated Cost
+
+| Item | Value |
+|------|------:|
+| **Total Components** | **6** |
+| **Estimated Total Cost** | **₹1,110** |
+
+> **Note:** The prices are approximate and may vary depending on the seller and your location.
