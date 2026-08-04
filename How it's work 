@@ -1,0 +1,30 @@
+
+# ⚙️ How It Works
+
+The Weather Monitoring Station works by measuring the surrounding temperature and humidity using a DHT11 sensor. The Arduino Uno reads this information and shows it on a 16×2 I2C LCD display.
+
+### Step 1 – Power On
+When the Arduino Uno is powered through the USB cable, it starts the program and initializes the DHT11 sensor and the LCD display.
+
+### Step 2 – Reading Sensor Data
+The DHT11 sensor measures the temperature and humidity of the surrounding environment. It sends this data to the Arduino through its data pin.
+
+### Step 3 – Processing the Data
+The Arduino receives the sensor values and processes them using the program uploaded to the board.
+
+### Step 4 – Displaying the Values
+The processed temperature and humidity values are displayed on the 16×2 I2C LCD. The display updates automatically after a short delay.
+
+### Step 5 – Continuous Monitoring
+The Arduino keeps reading the sensor repeatedly in a loop. This allows the display to show the latest temperature and humidity values continuously while the system is powered on.
+
+---
+
+## 📌 Working Summary
+
+- Power ON the Arduino.
+- Initialize the DHT11 sensor and LCD.
+- Read temperature and humidity from the sensor.
+- Process the sensor data.
+- Display the values on the LCD.
+- Repeat the process continuously.
